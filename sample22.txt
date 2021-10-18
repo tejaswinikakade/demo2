@@ -2,3 +2,7 @@ hi
 hii2
 hii3
 hellow guys
+int a
+int b
+int sum
+sum=a+b
